@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My website</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Assets/CSS/second-site.css">
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
+    </script>
+</head>
+<body>
+
+    <h1>
+        <span>This</span>
+        <span>is</span>
+        <span>Timothy</span>
+    </h1>
+
+
+
+
+    <model-viewer id="modelviewer" class="timothy"
+                  camera-controls
+                  camera-target="0.05m 0.9m 0m"
+                  exposure="1"
+                  shadow-intensity="0"
+                  shadow-softness="0"
+                  field-of-view="125deg"
+                  autoplay
+                  animation-name="Idle"
+                  src="Assets/3D-Models/Timothy.glb">
+    </model-viewer>
+
+
+
+    <div class="action_border">
+        <a>
+            <button class="action-1" onclick="runAnimation('Push-ups', 10)">
+                Do something else
+            </button>
+        </a>
+
+        <a>
+            <button class="action-2" onclick="runAnimation('Breakdance', 10)">
+                Do a dance
+            </button>
+        </a>
+
+        <a>
+            <button class="action-3" onclick="runAnimation('Backflip',4)">
+                Do a flip
+            </button>
+        </a>
+    </div>
+
+
+
+<script src="Assets/JAVA/app.js"></script>
+</body>
+</html>

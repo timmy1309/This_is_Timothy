@@ -1,0 +1,119 @@
+
+body{
+    background-color: black;
+    color: #f815f8;
+}
+
+.power-button-container{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.power-button{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.power-button_plane{
+    width: 150px;
+    height: 150px;
+    display: block;
+}
+
+.power-button_plane path, .power-button_plane rect{
+    fill: #f815f8;
+    stroke: #f815f8;
+}
+
+.power-button_glow line, .power-button_glow path{
+    stroke: #ffffff;
+    stroke: white;
+}
+
+.power-button_glow{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+}
+
+.power-button_whiteness{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+    filter: blur(20px);
+}
+
+.power-button_whiteness line, .power-button_whiteness path{
+    stroke: #ffffff;
+    stroke: white;
+}
+
+.power-button_light{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+    opacity: 1;
+    filter: blur(25px);
+}
+
+.power-button_light path, .power-button_light rect{
+    fill: #f815f8;
+    stroke: #f815f8;
+}
+
+h1{
+    color: #f3bdf3;
+    font-size: 100px;
+    font-family: "Fredoka One";
+    text-align: center;
+    margin-bottom: 150px;
+    margin-top: 150px;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 20px #f815f8;
+}
+
+h1 span:after {
+    transform: rotate(180deg) scaleX(-1);
+    display: flex;
+    position: absolute;
+    left: 0;
+    top: calc(100% - 30px);
+    background: linear-gradient(180deg, rgba(248,21,248,0) 20%, rgba(248,21,248,1) 50%);
+    -webkit-background-clip: text;
+    color: transparent;
+    height: 100%;
+    opacity: 1;
+    text-shadow: none;
+    filter: blur(20px);
+}
+
+h1 span:nth-child(1):after{
+    content: "Ready";
+}
+
+h1 span:nth-child(2):after{
+    content: "for";
+}
+
+h1 span:nth-child(3):after{
+    content: "the";
+}
+h1 span:nth-child(4):after{
+    content: "timothy";
+}
+h1 span:nth-child(5):after{
+    content: "Experience";
+}
+
+h1 span{
+    position: relative;
+}
