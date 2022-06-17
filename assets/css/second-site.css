@@ -5,9 +5,7 @@
 .action_border{
     text-align: center;
     height: 10vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    vertical-align: top;
 }
 
 .model-border{
@@ -104,14 +102,4 @@ h1 span{
 
 .action-3:active{
     background-color: #171616;
-}
-
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape){
-    .action_border{
-        flex-direction: column;
-    }
-
-    .timothy{
-        height: 55vh;
-    }
 }
