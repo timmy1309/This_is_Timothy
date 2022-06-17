@@ -70,11 +70,11 @@ body{
 
 h1{
     color: #f3bdf3;
-    font-size: 11vh;
+    font-size: 8vh;
+    margin-top: 10vh;
+    margin-bottom: 20vh;
     font-family: "Fredoka One";
     text-align: center;
-    margin-bottom: 10vh;
-    margin-top: 10vh;
     text-transform: uppercase;
     text-shadow: 0px 0px 2vh #f815f8;
 }
