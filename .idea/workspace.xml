@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5b72397-0fa7-4a6d-88fc-a7cdad834770" name="Changes" comment="rename files">
+    <list default="true" id="a5b72397-0fa7-4a6d-88fc-a7cdad834770" name="Changes" comment="rename files&#10;added mobile support">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/second-site.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/second-site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/where-i-stand.html" beforeDir="false" afterPath="$PROJECT_DIR$/where-i-stand.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <workItem from="1655208060843" duration="200000" />
       <workItem from="1655212123472" duration="4519000" />
       <workItem from="1655276139317" duration="11408000" />
-      <workItem from="1655449147358" duration="8541000" />
+      <workItem from="1655449147358" duration="9329000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1655295404399</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655297531066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rename files&#10;added mobile support">
+      <created>1655458758682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655458758682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="rename files" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename files" />
+    <MESSAGE value="rename files&#10;added mobile support" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename files&#10;added mobile support" />
   </component>
 </project>

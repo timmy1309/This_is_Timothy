@@ -20,6 +20,9 @@
     border-width: 0.5vh;
     border-radius: 1vh;
     margin: 1vh 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 body{
