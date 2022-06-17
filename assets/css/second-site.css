@@ -5,7 +5,6 @@
 .action_border{
     text-align: center;
     height: 10vh;
-    vertical-align: top;
 }
 
 .model-border{
@@ -21,6 +20,7 @@
     border-width: 0.5vh;
     border-radius: 1vh;
     margin: 1vh 2vw;
+    vertical-align: top;
 }
 
 body{
