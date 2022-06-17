@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5b72397-0fa7-4a6d-88fc-a7cdad834770" name="Changes" comment="fixed ipad problems">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5b72397-0fa7-4a6d-88fc-a7cdad834770" name="Changes" comment="fixed ipad problems for real this time">
       <change beforePath="$PROJECT_DIR$/assets/css/second-site.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/second-site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <workItem from="1655208060843" duration="200000" />
       <workItem from="1655212123472" duration="4519000" />
       <workItem from="1655276139317" duration="11408000" />
-      <workItem from="1655449147358" duration="10049000" />
+      <workItem from="1655449147358" duration="10523000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1655295404399</created>
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655462267171</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed ipad problems for real this time">
+      <created>1655465742988</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655465742988</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +130,7 @@
     <MESSAGE value="rename files" />
     <MESSAGE value="rename files&#10;added mobile support" />
     <MESSAGE value="fixed ipad problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed ipad problems" />
+    <MESSAGE value="fixed ipad problems for real this time" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed ipad problems for real this time" />
   </component>
 </project>
