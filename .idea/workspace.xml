@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5b72397-0fa7-4a6d-88fc-a7cdad834770" name="Changes" comment="fixed some issues with the framing">
+    <list default="true" id="a5b72397-0fa7-4a6d-88fc-a7cdad834770" name="Changes" comment="fixed the framing probably now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/power-me-on.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/power-me-on.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/second-site.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/second-site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/where-i-stand.html" beforeDir="false" afterPath="$PROJECT_DIR$/where-i-stand.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,7 @@
       <workItem from="1655208060843" duration="200000" />
       <workItem from="1655212123472" duration="4519000" />
       <workItem from="1655276139317" duration="11408000" />
-      <workItem from="1655449147358" duration="11457000" />
+      <workItem from="1655449147358" duration="14870000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1655295404399</created>
@@ -116,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655466541705</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed the framing probably">
+      <created>1655467284894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655467284894</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed the framing probably now">
+      <created>1655467379477</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655467379477</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +158,8 @@
     <MESSAGE value="fixed ipad problems for real this time" />
     <MESSAGE value="fixed ipad problems again" />
     <MESSAGE value="fixed some issues with the framing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed some issues with the framing" />
+    <MESSAGE value="fixed the framing probably" />
+    <MESSAGE value="fixed the framing probably now" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the framing probably now" />
   </component>
 </project>

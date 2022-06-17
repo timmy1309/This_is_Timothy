@@ -2,6 +2,28 @@
     height: 10vh;
 }
 
+.return-to-menu{
+    position: absolute;
+    background-color: transparent;
+    color: #f3bdf3;
+    border-style: solid;
+    border-radius: 2vh;
+    border-color: #f3bdf3;
+    cursor: pointer;
+    
+}
+
+.return-to-menu-shadow{
+    position: absolute;
+    background-color: transparent;
+    color: #f3bdf3;
+    border-style: solid;
+    border-radius: 2vh;
+    border-color: #f3bdf3;
+    box-shadow: 0px 0px 3vh pink;
+    cursor: pointer;
+}
+
 .action_border{
     text-align: center;
     height: 10vh;
@@ -21,6 +43,7 @@
     border-radius: 1vh;
     margin: 1vh 2vw;
     vertical-align: top;
+    cursor: pointer;
 }
 
 body{
