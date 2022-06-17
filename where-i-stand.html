@@ -11,15 +11,15 @@
 </head>
 <body>
 
+<div class="headline">
     <h1>
         <span>This</span>
         <span>is</span>
         <span>Timothy</span>
     </h1>
+</div>
 
-
-
-
+<div class="model-border">
     <model-viewer id="modelviewer" class="timothy"
                   camera-controls
                   camera-target="0.05m 0.9m 0m"
@@ -31,28 +31,29 @@
                   animation-name="Idle"
                   src="Assets/3D-Models/Timothy.glb">
     </model-viewer>
+</div>
 
 
 
-    <div class="action_border">
-        <a>
-            <button class="action-1" onclick="runAnimation('Push-ups', 10)">
-                Do something else
-            </button>
-        </a>
 
-        <a>
-            <button class="action-2" onclick="runAnimation('Breakdance', 10)">
-                Do a dance
-            </button>
-        </a>
 
-        <a>
-            <button class="action-3" onclick="runAnimation('Backflip',4)">
-                Do a flip
-            </button>
-        </a>
-    </div>
+<div class="action_border">
+    <a>
+        <button class="action-1 action" onclick="runAnimation('Push-ups', 10)">
+            Do something else
+        </button>
+    </a>
+    <a>
+        <button class="action-2 action" onclick="runAnimation('Breakdance', 10)">
+            Do a dance
+        </button>
+    </a>
+    <a>
+        <button class="action-3 action" onclick="runAnimation('Backflip',4)">
+            Do a flip
+        </button>
+    </a>
+</div>
 
 
 
